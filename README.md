@@ -1,2 +1,2 @@
-# 20203042	Younggwang Kim
+# 2020XXXX	Younggwang Kim
 # Kookmin Univ. SW
