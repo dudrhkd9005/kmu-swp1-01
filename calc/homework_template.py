@@ -8,7 +8,8 @@ html = b"""
         </form>
         <p>
         sum : %(x)s<br>
-        product : %(y)s<br>
+        product : %(y)s<br><br>
+        ErrorState : %(z)s<br>
         </p>
     </body>
 </html>
